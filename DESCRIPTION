@@ -14,7 +14,8 @@ Imports:
     DT,
     glue,
     htmltools,
-    thinkr
+    thinkr,
+    pkgload
 RoxygenNote: 6.1.0
 Suggests: 
     testthat (>= 2.1.0),
