@@ -22,3 +22,5 @@ Suggests:
     knitr,
     rmarkdown
 VignetteBuilder: knitr
+URL: https://github.com/pydupont/NullarborReader
+BugReports: https://github.com/pydupont/NullarborReader/issues
